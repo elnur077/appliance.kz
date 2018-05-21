@@ -191,7 +191,7 @@ background-size: cover;*/
     width: 100%;
     left: 0;
     top: 0;
-    background-color: #398AA2;
+    background: url(../images/conatc.jpg);
     padding: 2em 3em;
     opacity: 0;
     -webkit-transition: ease-in 0.5s all;
