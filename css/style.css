@@ -37,8 +37,11 @@ a:hover {
 /*--banner end here--*/
 /*--header start here--*/
 .logo {
-    float: left;
-    width: 50%;
+    display : block;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    width: 10px;
 }
 
 .banner-main {
@@ -51,7 +54,7 @@ a:hover {
 }
 .logo h1 {
     font-size:3.5em;
-    font-family: 'Aladin', cursive;
+    font-family: 'Segoe UI Light', cursive;
 }
 .logo h1 a{
 	 color: #fff;
@@ -1442,6 +1445,7 @@ ul#flexiselDemo3 li img {
 }
 .banner-main {
     padding: 1.5em 0em;
+
 }
 }
 @media (max-width:320px){
