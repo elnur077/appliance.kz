@@ -416,7 +416,7 @@ p{
     font-size: 0.95em;
     color: #F3F3F3;
     line-height: 1.8em;
-    margin-bottom:2em;
+    margin-bottom:0em;
 }
 .fea-left-bott h4 {
     font-size: 1.2em;
@@ -448,7 +448,7 @@ p{
     font-size: 0.95em;
     color: #F3F3F3;
     line-height: 1.8em;
-    margin-bottom: 2em;
+    margin-bottom: 0;
 }
 .fea-rit-top {
     border-bottom: 1px solid rgba(255, 255, 255, 0.68);
@@ -469,7 +469,7 @@ p{
     font-size: 0.95em;
     color: #F3F3F3;
     line-height: 1.8em;
-    margin-bottom: 1em;
+
 }
 .fea-agileits-rit {
 	background: url(../images/con-rit-bg.png)no-repeat;
